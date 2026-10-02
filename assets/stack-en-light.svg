@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="436" viewBox="0 0 1200 436" role="img" aria-label="Layered tech stack">
+<style>.t{font:700 20px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#15233A}.l{font:700 15px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#5A6A80;letter-spacing:.5px}.c{font:600 15px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#15233A}.n{font:500 14px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#5A6A80}.row{opacity:0;animation:in .5s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}@media (prefers-reduced-motion:reduce){.row{opacity:1;animation:none}}</style>
+<rect width="1200" height="436" rx="18" fill="#FFFFFF" stroke="#D9E0EA"/>
+<text class="t" x="32" y="40">Every layer, in production</text>
+<g class="row" style="animation-delay:0.00s">
+<rect x="24" y="60" width="1152" height="56" rx="10" fill="#B07A00" fill-opacity="0.060" stroke="#D9E0EA"/>
+<rect x="24" y="60" width="6" height="56" rx="3" fill="#B07A00"/>
+<text class="l" x="48" y="94">Mobile</text>
+<rect x="150" y="72" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="163" y="93">Flutter</text>
+<rect x="255" y="72" width="66" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="268" y="93">Dart</text>
+</g>
+<g class="row" style="animation-delay:0.15s">
+<rect x="24" y="124" width="1152" height="56" rx="10" fill="#B07A00" fill-opacity="0.095" stroke="#D9E0EA"/>
+<rect x="24" y="124" width="6" height="56" rx="3" fill="#B07A00"/>
+<text class="l" x="48" y="158">Web</text>
+<rect x="150" y="136" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="163" y="157">Angular</text>
+<rect x="255" y="136" width="124" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="268" y="157">TypeScript</text>
+<rect x="389" y="136" width="66" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="402" y="157">NgRx</text>
+<rect x="465" y="136" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="478" y="157">Signals</text>
+<rect x="570" y="136" width="104" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="583" y="157">Tailwind</text>
+<rect x="684" y="136" width="181" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="697" y="157">Angular Material</text>
+</g>
+<g class="row" style="animation-delay:0.30s">
+<rect x="24" y="188" width="1152" height="56" rx="10" fill="#B07A00" fill-opacity="0.130" stroke="#D9E0EA"/>
+<rect x="24" y="188" width="6" height="56" rx="3" fill="#B07A00"/>
+<text class="l" x="48" y="222">API</text>
+<rect x="150" y="200" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="163" y="221">Node.js</text>
+<rect x="255" y="200" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="268" y="221">Express</text>
+<rect x="360" y="200" width="85" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="373" y="221">NestJS</text>
+<rect x="455" y="200" width="172" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="468" y="221">ASP.NET Web API</text>
+<rect x="637" y="200" width="47" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="650" y="221">C#</text>
+<rect x="694" y="200" width="56" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="707" y="221">PHP</text>
+</g>
+<g class="row" style="animation-delay:0.45s">
+<rect x="24" y="252" width="1152" height="56" rx="10" fill="#B07A00" fill-opacity="0.165" stroke="#D9E0EA"/>
+<rect x="24" y="252" width="6" height="56" rx="3" fill="#B07A00"/>
+<text class="l" x="48" y="286">Data</text>
+<rect x="150" y="264" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="163" y="285">MongoDB</text>
+<rect x="255" y="264" width="124" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="268" y="285">SQL Server</text>
+<rect x="389" y="264" width="76" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="402" y="285">MySQL</text>
+<rect x="475" y="264" width="124" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="488" y="285">PostgreSQL</text>
+<rect x="609" y="264" width="104" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="622" y="285">DynamoDB</text>
+</g>
+<g class="row" style="animation-delay:0.60s">
+<rect x="24" y="316" width="1152" height="56" rx="10" fill="#B07A00" fill-opacity="0.200" stroke="#D9E0EA"/>
+<rect x="24" y="316" width="6" height="56" rx="3" fill="#B07A00"/>
+<text class="l" x="48" y="350">Cloud</text>
+<rect x="150" y="328" width="124" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="163" y="349">AWS Lambda</text>
+<rect x="284" y="328" width="133" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="297" y="349">API Gateway</text>
+<rect x="427" y="328" width="95" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="440" y="349">Cognito</text>
+<rect x="532" y="328" width="56" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="545" y="349">SES</text>
+<rect x="598" y="328" width="104" height="32" rx="16" fill="#F4F6FA" stroke="#D9E0EA"/>
+<text class="c" x="611" y="349">Firebase</text>
+</g>
+<text class="n" x="32" y="416">Hexagonal Architecture · Clean Architecture · Monorepos · Scrum / Jira</text>
+</svg>
