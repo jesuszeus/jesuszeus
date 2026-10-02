@@ -7,7 +7,6 @@
   <a href="https://jesuszeus.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-jesuszeus.github.io-F5C518?style=for-the-badge&labelColor=0B1220"></a>
   <a href="https://www.linkedin.com/in/jes%C3%BAs-jos%C3%A9-valles-guerra-08293739/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jes%C3%BAs%20Valles-F5C518?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220"></a>
   <a href="mailto:jesuszeus88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesuszeus88%40gmail.com-F5C518?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220"></a>
-  <a href="https://jesuszeus.github.io"><img alt="Versión en español" src="https://img.shields.io/badge/ES-Versi%C3%B3n%20en%20espa%C3%B1ol-1A2333?style=for-the-badge&labelColor=0B1220"></a>
 </p>
 
 ### ⚡ About me
