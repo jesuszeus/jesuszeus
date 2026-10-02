@@ -1,41 +1,45 @@
-### Hola, soy Jesús Valles 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Jesús Valles — Desarrollador Full-Stack Senior" src="assets/header-light.svg" width="100%">
+</picture>
 
-**Desarrollador Full-Stack Senior** en Maracaibo, Venezuela, disponible para trabajo remoto.
-Llevo más de 10 años construyendo sistemas completos: frontends en Angular, APIs en Node.js y .NET, apps en Flutter y despliegues en AWS y Firebase.
+<p align="center">
+  <a href="https://jesuszeus.github.io"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-jesuszeus.github.io-F5C518?style=for-the-badge&labelColor=0B1220"></a>
+  <a href="https://www.linkedin.com/in/jes%C3%BAs-jos%C3%A9-valles-guerra-08293739/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jes%C3%BAs%20Valles-F5C518?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1220"></a>
+  <a href="mailto:jesuszeus88@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jesuszeus88%40gmail.com-F5C518?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1220"></a>
+</p>
 
-- 🛰️ **2023–2026 · Nuvol Solutions (EE. UU., remoto):** plataformas de monitoreo de calidad de redes móviles 4G/5G para reguladores de telecomunicaciones en Latinoamérica (Angular 17–19, Node.js, Flutter, MongoDB, arquitectura hexagonal y monorepos).
-- 🏢 **2019–2023 · Grupo RG (Stargas):** ERP interno usado por unas 100 personas (ASP.NET Web API, SQL Server, Angular, app Flutter para vendedores).
-- 🧰 **2014–2017 · Grupo Inartec:** participé en SICODS (órdenes de servicio e inventario) y en un prototipo de app de gestión médica (low-code + PHP).
-- 🤝 **Servicio comunitario:** plataformas web para la Alcaldía de Maracaibo (PHP 8, MySQL).
+### ⚡ Sobre mí
 
-🌐 **Portafolio:** [jesuszeus.github.io](https://jesuszeus.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/jes%C3%BAs-jos%C3%A9-valles-guerra-08293739/) · ✉️ jesuszeus88@gmail.com
+Desarrollador full-stack con más de 10 años participando en el desarrollo de sistemas empresariales completos: del modelo de datos y las APIs a la aplicación web y la app móvil. Los últimos años trabajé en remoto para EE. UU. en plataformas de monitoreo de redes móviles 4G/5G en tiempo real para reguladores de telecomunicaciones en Latinoamérica.
 
----
+- 🔭 **Ahora:** buscando un puesto full-stack remoto.
+- 🧱 **Cómo trabajo:** arquitectura hexagonal, Clean Architecture, monorepos y Scrum con Jira.
+- 🌱 **Aprendiendo:** desarrollo con agentes de IA y Google Cloud.
+- 🤝 **Servicio comunitario:** plataformas web para la Alcaldía de Maracaibo.
 
-**Stack**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack por capas: Móvil (Flutter, Dart), Web (Angular, TypeScript, NgRx), API (Node.js, NestJS, ASP.NET, PHP), Datos (MongoDB, SQL Server, MySQL, PostgreSQL, DynamoDB) y Cloud (AWS, Firebase)" src="assets/stack-light.svg" width="100%">
+</picture>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET%20/%20C%23-512BD4?logo=dotnet&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg">
+  <img alt="Trayectoria: Nuvol Solutions 2023–2026, Grupo RG (Stargas) 2019–2023, OSM Soft 2018–2019, Cable Hogar y Ricana Group 2017–2018, Grupo Inartec 2014–2017, Joscompu 2010" src="assets/timeline-light.svg" width="100%">
+</picture>
 
-**Proyectos públicos**
+### 🛠️ Proyectos públicos
 
-- [project-skills](https://github.com/jesuszeus/project-skills): skills para Claude Code que generan módulos PHP completos (CRUD, estadísticas, exportación) a partir de formularios, PDFs o planillas.
+| Proyecto | Qué es |
+| --- | --- |
+| [**project-skills**](https://github.com/jesuszeus/project-skills) | Skills para Claude Code que generan módulos PHP completos (CRUD, estadísticas, exportación) a partir de formularios, PDFs o planillas. |
+| [**jesuszeus.github.io**](https://github.com/jesuszeus/jesuszeus.github.io) | Mi portafolio bilingüe, con CV descargable en español e inglés. |
 
 <details>
-<summary>🇺🇸 English</summary>
+<summary>🇺🇸 <b>English</b></summary>
+<br>
 
-**Senior Full-Stack Developer** based in Maracaibo, Venezuela, open to remote work. I have 10+ years of experience building complete systems: Angular frontends, Node.js and .NET APIs, Flutter apps, and deployments on AWS and Firebase.
-Most recently (2023–2026) I worked on 4G/5G network-quality monitoring platforms for telecom regulators across Latin America at Nuvol Solutions (US, remote).
-Portfolio: [jesuszeus.github.io](https://jesuszeus.github.io)
+**Senior Full-Stack Developer** based in Maracaibo, Venezuela, open to remote work. 10+ years contributing to complete business systems: Angular frontends, Node.js and .NET APIs, Flutter apps, and AWS / Firebase services. Most recently I worked remotely for a US company on real-time 4G/5G network monitoring platforms for telecom regulators across Latin America.
+
+I work with hexagonal architecture, Clean Architecture, monorepos and Scrum. Portfolio and résumé: [jesuszeus.github.io](https://jesuszeus.github.io)
 </details>

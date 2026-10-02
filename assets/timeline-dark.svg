@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="432" viewBox="0 0 1200 432" role="img" aria-label="Trayectoria profesional 2010–2026">
+<style>.t{font:700 20px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#E9EEF6}.yr{font:600 13px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace;fill:#8FA0B8}.co{font:700 16px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#E9EEF6}.ds{font:500 13.5px -apple-system,'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8FA0B8}.dt{font:600 13px ui-monospace,SFMono-Regular,'Cascadia Code',Consolas,monospace;fill:#8FA0B8}.bar{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .7s ease-out forwards}@keyframes grow{to{transform:scaleX(1)}}@media (prefers-reduced-motion:reduce){.bar{transform:none;animation:none}}</style>
+<rect width="1200" height="432" rx="18" fill="#0B1220" stroke="#22304A"/>
+<text class="t" x="32" y="42">Trayectoria</text>
+<line x1="560.0" y1="62" x2="560.0" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="560.0" y="404" text-anchor="middle">2010</text>
+<line x1="630.6" y1="62" x2="630.6" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="630.6" y="404" text-anchor="middle">2012</text>
+<line x1="701.2" y1="62" x2="701.2" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="701.2" y="404" text-anchor="middle">2014</text>
+<line x1="771.8" y1="62" x2="771.8" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="771.8" y="404" text-anchor="middle">2016</text>
+<line x1="842.4" y1="62" x2="842.4" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="842.4" y="404" text-anchor="middle">2018</text>
+<line x1="912.9" y1="62" x2="912.9" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="912.9" y="404" text-anchor="middle">2020</text>
+<line x1="983.5" y1="62" x2="983.5" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="983.5" y="404" text-anchor="middle">2022</text>
+<line x1="1054.1" y1="62" x2="1054.1" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="1054.1" y="404" text-anchor="middle">2024</text>
+<line x1="1124.7" y1="62" x2="1124.7" y2="382" stroke="#22304A" stroke-dasharray="2 4"/>
+<text class="yr" x="1124.7" y="404" text-anchor="middle">2026</text>
+<text class="co" x="32" y="92">Nuvol Solutions (EE. UU.)</text>
+<text class="ds" x="32" y="111">Monitoreo de redes 4G/5G · Angular · Node.js · Flutter</text>
+<rect class="bar" style="animation-delay:0.00s" x="1018.8" y="87" width="141.2" height="18" rx="9" fill="#F5C518" fill-opacity="1.00"/>
+<text class="dt" x="1008.8" y="101" text-anchor="end">2023–2026</text>
+<line x1="32" y1="122" x2="1168" y2="122" stroke="#22304A"/>
+<text class="co" x="32" y="144">Grupo RG (Stargas)</text>
+<text class="ds" x="32" y="163">ERP · ASP.NET Web API · SQL Server · Angular</text>
+<rect class="bar" style="animation-delay:0.12s" x="877.6" y="139" width="176.5" height="18" rx="9" fill="#F5C518" fill-opacity="0.88"/>
+<text class="dt" x="867.6" y="153" text-anchor="end">2019–2023</text>
+<line x1="32" y1="174" x2="1168" y2="174" stroke="#22304A"/>
+<text class="co" x="32" y="196">OSM Soft Internacional</text>
+<text class="ds" x="32" y="215">Aplicación web de ventas</text>
+<rect class="bar" style="animation-delay:0.24s" x="842.4" y="191" width="70.6" height="18" rx="9" fill="#F5C518" fill-opacity="0.76"/>
+<text class="dt" x="832.4" y="205" text-anchor="end">2018–2019</text>
+<line x1="32" y1="226" x2="1168" y2="226" stroke="#22304A"/>
+<text class="co" x="32" y="248">Cable Hogar · Ricana Group</text>
+<text class="ds" x="32" y="267">Coordinación de equipo y frontend</text>
+<rect class="bar" style="animation-delay:0.36s" x="807.1" y="243" width="70.6" height="18" rx="9" fill="#F5C518" fill-opacity="0.64"/>
+<text class="dt" x="797.1" y="257" text-anchor="end">2017–2018</text>
+<line x1="32" y1="278" x2="1168" y2="278" stroke="#22304A"/>
+<text class="co" x="32" y="300">Grupo Inartec</text>
+<text class="ds" x="32" y="319">SICODS · prototipo médico low-code + PHP</text>
+<rect class="bar" style="animation-delay:0.48s" x="701.2" y="295" width="141.2" height="18" rx="9" fill="#F5C518" fill-opacity="0.52"/>
+<text class="dt" x="691.2" y="309" text-anchor="end">2014–2017</text>
+<line x1="32" y1="330" x2="1168" y2="330" stroke="#22304A"/>
+<text class="co" x="32" y="352">Joscompu</text>
+<text class="ds" x="32" y="371">Gestión académica de escritorio · Joomla</text>
+<rect class="bar" style="animation-delay:0.60s" x="560.0" y="347" width="35.3" height="18" rx="9" fill="#F5C518" fill-opacity="0.40"/>
+<text class="dt" x="550.0" y="361" text-anchor="end">2010</text>
+</svg>
